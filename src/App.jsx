@@ -3,7 +3,7 @@ function App() {
   return (
     <>
       <div className="min-h-screen bg-gray-100 flex justify-center items-center">
-        <div className="w-[25%] p-6 bg-white rounded-xl shadow-xl hover:shadow-2xl hover:scale-105 transition-all transform duration-500">
+        <div className="lg:w-[25%] p-6 bg-white rounded-xl shadow-xl hover:shadow-2xl hover:scale-105 transition-all transform duration-500">
           <img
             className=" object-cover mx-auto rounded-t-md"
             src={headphonesImg}
