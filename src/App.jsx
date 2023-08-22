@@ -1,4 +1,4 @@
-import headphonesImg from "../../jGate/src/assets/img/image 2.png";
+import headphonesImg from "./assets/img/image 2.png";
 function App() {
   return (
     <>
