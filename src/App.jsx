@@ -39,6 +39,12 @@ function App() {
             <button className="bg-white w-full  text-[black] py-2 px-4 border border-[#61A5FA] rounded-lg shadow  hover:text-[#FBBF23]">
               Buy now
             </button>
+            <div
+              className="mt-4 mb-4
+            "
+            >
+              <a className="underline text-[#61A5FA]">Read reviews</a>
+            </div>
           </div>
         </div>
       </div>
